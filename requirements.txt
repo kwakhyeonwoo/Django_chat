@@ -1,0 +1,9 @@
+Django~=5.1.4
+pillow~=11.0.0
+django-cleanup
+django-allauth~=65.3.0
+django-htmx~=1.21.0
+pip~=23.2.1
+asgiref~=3.8.1
+sqlparse~=0.5.3
+channels~=4.2.0
